@@ -1,2 +1,2 @@
 # CoolThing
-You can try by yourself.
+You can try it by yourself.
